@@ -1,0 +1,13 @@
+.wrap {
+    width: 700px;
+    height: 460px;
+    background-color: aqua;
+    margin-left: 350px;
+    margin-top: 80px;
+}
+
+.h-items {
+    padding: 20px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
